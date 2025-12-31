@@ -24,4 +24,5 @@ A 2D game written entirely in Java where the player controls a stick figure and 
 
 ## Play the Game
 - Click on the link to play the game
+- Use up and down arrow keys to jump and crouch
 - https://codehs.com/sandbox/id/stickman-dodge-V3PDpo
