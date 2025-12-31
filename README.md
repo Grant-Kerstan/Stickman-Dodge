@@ -22,7 +22,6 @@ A 2D game written entirely in Java where the player controls a stick figure and 
 - Structuring a Java project using reusable classes and clean logic
 - Debugging timing and collision detection issues
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/java-dodge-game.git
+## Play the Game
+- Click on the link to play the game
+- https://codehs.com/sandbox/id/stickman-dodge-V3PDpo
